@@ -4,7 +4,7 @@
   "container": {
     "type": "DOCKER",
     "docker": {
-      "image": "filipeciti/demo:latest"
+      "image": "filipeciti/cd-demo:latest"
     },
     "portMappings": [
       {
